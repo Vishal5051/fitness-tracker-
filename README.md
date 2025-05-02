@@ -35,6 +35,6 @@ A responsive, web-based **Fitness Tracker** built using **HTML**, **CSS (Bootstr
 ## ✅ How to Run
 
 1. Clone the repository:
-   ```bash
-[   git clone https://github.com/your-username/fitness-tracker.git](https://github.com/Vishal5051/fitness-tracker-.git)
+   ```bash[   git clone https://github.com/your-username/fitness-tracker.git](https://github.com/Vishal5051/fitness-tracker-.git)
+
    cd fitness-tracker
