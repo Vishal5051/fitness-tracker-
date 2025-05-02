@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+}
+
+.table, .btn {
+    margin-top: 20px;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+}
